@@ -1,0 +1,7 @@
+POST https://127.0.0.1:8080/test
+Content-Type: application/json
+
+{
+"x":1,
+"y":2
+}
